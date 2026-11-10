@@ -204,4 +204,4 @@ This repository serves as the official landing page for Evince. The software is 
 **Get the most recent version of Evince today!**
 
 ---
-**Last updated:** 2026-11-09 07:34:18 UTC
+**Last updated:** 2026-11-10 01:51:02 UTC
